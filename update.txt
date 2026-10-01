@@ -4,15 +4,4 @@ Telegram Channel: https://t.me/devayuchat
 
 Date - 01-10-2026
 =============================
-* Device Side Changes:
 - Added OTA updates support
-
-* Rom Side Changes:
-- Fixed Always-On Display while charging
-- Fixed issues with the taskbar
-- Properly removed ongoing call and screen recording Android chips when Dynamic Island is showing
-- Removed duplicate incoming call heads-up notifications when Dynamic Island is active
-- Added back support for removing the emergency button from the power menu
-- Properly restored support for Ambient Pulse without overlapping lockscreen elements
-- Enabled blur effects on more surfaces
-- Added support for Icon Shapes
