@@ -1,0 +1,7 @@
+Device Maintainer: Ayu Kashyap 🔥
+Device: Redmi Note 10 4G (sunny)
+Telegram Channel: https://t.me/devayuchat
+
+Date - 02-10-2026
+=============================
+- Added OTA updates support
