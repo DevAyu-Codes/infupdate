@@ -1,6 +1,7 @@
-Device Maintainer: Ayu Kashyap 🔥
-Device: Redmi Note 10 4G (sunny)
-Telegram Channel: https://t.me/devayuchat
+Device: Redmi Note 10 4G
+Codename: Sunny
+Maintainer: Ayu Kashyap 🔥
+Telegram Channel: https://t.me/devayu_updates
 
 Date - 01-10-2026
 =============================
