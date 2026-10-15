@@ -1,3 +1,7 @@
+# Sync Rom
+repo init --depth=1 --no-repo-verify --git-lfs -u https://github.com/ProjectInfinity-X/manifest -b 17 -g default,-mips,-darwin,-notdefault
+repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync -j$(nproc --all)
+
 # Setting GitHub Config
 git config --global user.email "ayushkumar274549@gmail.com"
 git config --global user.name "DevAyu-Codes"
