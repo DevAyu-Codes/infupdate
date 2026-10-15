@@ -25,10 +25,6 @@ rm vendor/infinity-priv/keys/keys.zip
 mv vendor/infinity-priv/keys/keys-InfinityX/* vendor/infinity-priv/keys/
 rm -rf vendor/infinity-priv/keys/keys-InfinityX
 
-# Fixing Update Path
-rm -rf system/memory/libmeminfo
-git clone https://github.com/PixelOS-AOSP/android_system_memory_libmeminfo -b seventeen system/memory/libmeminfo
-
 # Custom Updater For GApps
 rm -rf packages/apps/Updater
 git clone https://github.com/DevAyu-Codes/packages_apps_Updater -b 17 packages/apps/Updater
