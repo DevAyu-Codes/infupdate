@@ -3,6 +3,16 @@ Codename: Sunny
 Maintainer: Ayu Kashyap 🔥
 Telegram Channel: https://t.me/devayu_updates
 
-Date - 01-10-2026
+Date - 16-10-2026
 =============================
 - Added OTA updates support
+- Source Changelogs: https://t.me/ProjectInfinityX/2028
+
+Date - 30-09-2026
+=============================
+- Source Changelogs: https://t.me/ProjectInfinityX/2017
+
+Date - 27-09-2026
+=============================
+- Initial Android 17 Bringup
+- Source Changelogs: https://t.me/ProjectInfinityX/2012
