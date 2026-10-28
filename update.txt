@@ -3,6 +3,17 @@ Codename: Sunny
 Maintainer: Ayu Kashyap 🔥
 Telegram Channel: https://t.me/devayu_updates
 
+Date - 28-10-2026
+=============================
+- Migrate to USB HAL 1.3.
+- Move usage of USB MTP/PTP functionality to USB F_FS driver.
+- Migrate to QTI USB Gadget AIDL HAL.
+- Ship MiuiCamera from V14.0.9.0.SKGMIXM.
+- Kernel:
+  - Backport sys_clone3() syscall fixes.
+  - Disable legacy OTG support to fix wired Android Auto.
+- Source Changelogs: https://t.me/ProjectInfinityX/2031
+
 Date - 16-10-2026
 =============================
 - Added OTA updates support
